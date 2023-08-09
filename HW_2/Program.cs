@@ -1,4 +1,6 @@
-﻿Console.Write("Введите первое число:  ");
+﻿//...
+
+Console.Write("Введите первое число:  ");
 int num_1 = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе число:  ");
 int num_2 = int.Parse(Console.ReadLine()!);
